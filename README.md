@@ -7,5 +7,5 @@
 
 코드 예제 
 
-[챕터 3](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH03_Github.ipynb)
+[챕터 3](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH03_Github.ipynb) </br>
 [챕터 4](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH04_Github.ipynb)
