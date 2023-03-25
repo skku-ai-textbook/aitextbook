@@ -11,6 +11,15 @@
 
 [챕터 03](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH03_Github.ipynb) </br>
 [챕터 04-파이썬과 친해지기](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH04_Github.ipynb) </br>
+[챕터 05-]() </br>
+[챕터 06-]() </br>
+[챕터 07-]() </br>
+[챕터 08-]() </br>
+[챕터 10-]() </br>
+[챕터 12-]() </br>
+[챕터 13-]() </br>
+[챕터 14-]() </br>
+[챕터 15-]() </br>
 [챕터 16-텍스트를 자동으로 분류하기(토픽 모델링을 사용한 신문사설 자동 분류 모델)](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH16_Github.ipynb)
 
 ## 데이터 
