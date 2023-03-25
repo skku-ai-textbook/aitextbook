@@ -9,7 +9,7 @@
 
 ## 코드 예제 
 
-[챕터 03](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH03_Github.ipynb) </br>
+[챕터 03-파이썬과 구글 코랩 ](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH03_Github.ipynb) </br>
 [챕터 04-파이썬과 친해지기](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH04_Github.ipynb) </br>
 [챕터 05-]() </br>
 [챕터 06-]() </br>
