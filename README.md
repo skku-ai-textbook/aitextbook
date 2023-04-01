@@ -12,14 +12,14 @@
 [챕터 03-파이썬과 구글 코랩 ](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH03_Github.ipynb) </br>
 [챕터 04-파이썬과 친해지기1](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH04_Github.ipynb) </br>
 [챕터 05-파이썬과 친해지기2](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH05_Github.ipynb) </br>
-[챕터 06-]() </br>
-[챕터 07-]() </br>
-[챕터 08-]() </br>
-[챕터 10-]() </br>
-[챕터 12-]() </br>
-[챕터 13-]() </br>
-[챕터 14-]() </br>
-[챕터 15-]() </br>
+[챕터 06-조건문과 반복문](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH06_Github.ipynb) </br>
+[챕터 07-판다스의 활용]() </br>
+[챕터 08-데이터 시각화 실습]() </br>
+[챕터 10-데이터 수집/이해/처리]() </br>
+[챕터 12-모델 검증 및 평가]() </br>
+[챕터 13-예측 문제 해결하기(비가 오는 날은 영화 관객 수가 줄어들까?)]() </br>
+[챕터 14-분류 문제 해결하기(누가 신문을 읽고 있을까?)]() </br>
+[챕터 15-군집화 문제 해결하기(강수량과 평균 기온으로 사계절을 구분할 수 있을까?)]() </br>
 [챕터 16-텍스트를 자동으로 분류하기(토픽 모델링을 사용한 신문사설 자동 분류 모델)](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH16_Github.ipynb)
 
 ## 데이터 
