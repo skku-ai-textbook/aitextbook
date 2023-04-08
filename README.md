@@ -15,7 +15,7 @@
 [챕터 06-조건문과 반복문](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH06_Github.ipynb) </br>
 [챕터 07-판다스의 활용](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH07_Github.ipynb) </br>
 [챕터 08-데이터 시각화 실습]() </br>
-[챕터 10-데이터 수집/이해/처리]() </br>
+[챕터 10-데이터 수집/이해/처리](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH10_Github.ipynb) </br>
 [챕터 12-모델 검증 및 평가]() </br>
 [챕터 13-예측 문제 해결하기(비가 오는 날은 영화 관객 수가 줄어들까?)]() </br>
 [챕터 14-분류 문제 해결하기(누가 신문을 읽고 있을까?)]() </br>
