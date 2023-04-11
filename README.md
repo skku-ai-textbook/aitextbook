@@ -17,9 +17,9 @@
 [챕터 08-데이터 시각화 실습](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH08_Github.ipynb) </br>
 [챕터 10-데이터 수집/이해/처리](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH10_Github.ipynb) </br>
 [챕터 12-모델 검증 및 평가](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH12_Github.ipynb) </br>
-[챕터 13-예측 문제 해결하기(비가 오는 날은 영화 관객 수가 줄어들까?)]() </br>
-[챕터 14-분류 문제 해결하기(누가 신문을 읽고 있을까?)]() </br>
-[챕터 15-군집화 문제 해결하기(강수량과 평균 기온으로 사계절을 구분할 수 있을까?)]() </br>
+[챕터 13-예측 문제 해결하기(비가 오는 날은 영화 관객 수가 줄어들까?)](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH13_Github.ipynb) </br>
+[챕터 14-분류 문제 해결하기(누가 신문을 읽고 있을까?)](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH14_Github.ipynb) </br>
+[챕터 15-군집화 문제 해결하기(강수량과 평균 기온으로 사계절을 구분할 수 있을까?)](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH15_Github.ipynb) </br>
 [챕터 16-텍스트를 자동으로 분류하기(토픽 모델링을 사용한 신문사설 자동 분류 모델)](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH16_Github.ipynb)
 
 
