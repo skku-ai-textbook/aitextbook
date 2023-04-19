@@ -1,6 +1,6 @@
 # 소개 
 
-이 깃허브 페이지는  [문과생을 위한 인공지능 이해 (에이콘 출판사, 2023)](http://www.acornpub.co.kr/book/ai-for-student)에서 사용한 코드 예제와 데이터가 수록되어 있습니다.  
+이 깃허브 페이지는  [문과생을 위한 인공지능 입문: 수학, 통계 지식없이 배우는 (에이콘 출판사, 2023)](http://www.acornpub.co.kr/book/ai-for-student)에서 사용한 코드 예제와 데이터가 수록되어 있습니다.  
 
 각 챕터의 코드 예제는 아래의 링크를 클릭하면 확인할 수 있습니다. 모든 코드는 구글 코랩의 링크가 연결되어 있습니다. 각 챕터 예제에 수록되어 있는 링크를 클릭하시면 실제로 코랩을 통해 코드를 실행할 수 있습니다. 
 
@@ -24,5 +24,7 @@
 
 
 ## 링크
+
+문과생을 위한 인공지능 입문은 아래에서 구매하실 수 있습니다. 
 
 [YES24](http://www.yes24.com/Product/Goods/118486686) | [교보문고](https://product.kyobobook.co.kr/detail/S000201532459) | [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315217771) | [인터파크](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=356727596&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001)|  
