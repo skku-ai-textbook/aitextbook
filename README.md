@@ -27,6 +27,6 @@
 
 문과생을 위한 인공지능 입문은 아래에서 구매하실 수 있습니다. 
 
-[YES24](http://www.yes24.com/Product/Goods/118486686) | [교보문고](https://product.kyobobook.co.kr/detail/S000201532459) | [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315217771) | [인터파크](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=356727596&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001)|  
+[YES24](http://www.yes24.com/Product/Goods/118486686) | [교보문고](https://product.kyobobook.co.kr/detail/S000201532459) | [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=315217771) | [인터파크](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=356727596&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001)| [영풍문고](https://www.ypbooks.co.kr/book.yp?bookcd=101234013) 
 
 <img src="https://github.com/skku-ai-textbook/aitextbook/blob/main/book%20cover.jpg?raw=true" width="300" heigh="150">
