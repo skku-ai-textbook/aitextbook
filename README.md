@@ -20,8 +20,8 @@
 [챕터 13-예측 문제 해결하기(비가 오는 날은 영화 관객 수가 줄어들까?)](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH13_Github.ipynb) </br>
 [챕터 14-분류 문제 해결하기(누가 신문을 읽고 있을까?)](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH14_Github.ipynb) </br>
 [챕터 15-군집화 문제 해결하기(강수량과 평균 기온으로 사계절을 구분할 수 있을까?)](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH15_Github.ipynb) </br>
-[챕터 16-텍스트를 자동으로 분류하기(토픽 모델링을 사용한 신문사설 자동 분류 모델)](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH16_github.ipynb)
-
+[챕터 16-텍스트를 자동으로 분류하기(토픽 모델링을 사용한 신문사설 자동 분류 모델)](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/CH16_github.ipynb) </br>
+[연습문제 해답](https://github.com/skku-ai-textbook/aitextbook/blob/main/notebooks/%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%B3%E1%86%B8%E1%84%86%E1%85%AE%E1%86%AB%E1%84%8C%E1%85%A6(Keys)_Github.ipynb)
 
 ## 링크
 
